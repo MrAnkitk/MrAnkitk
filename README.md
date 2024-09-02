@@ -1,59 +1,81 @@
-# **Ankit Kumar - Data Analyst**
+# **Ankit Kumar - Data Analyst** 🧑‍💻
 
-Hello, I'm **Ankit Kumar**, a passionate Data Analyst dedicated to uncovering insights from data to drive business decisions. With a strong foundation in data analysis, visualization, and statistical modeling, I am eager to expand my skills in the ever-evolving field of data science. Welcome to my GitHub profile!
+Welcome to my GitHub Portfolio! I'm **Ankit Kumar**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkumar&color=blue)  
+---
 
-## **🔍 About Me**
+## **👨‍🎓 About Me**
 
-I specialize in transforming raw data into meaningful insights using various tools and techniques. My experience spans across data cleaning, exploratory data analysis, and building compelling visualizations that help stakeholders understand complex datasets. Currently, I'm diving deeper into advanced analytics and machine learning to enhance my analytical capabilities.
+I am currently pursuing a **Bachelor of Arts in Economics** from **IGNOU University**, New Delhi, India (2022-2025). My academic journey focuses on **Economical Methods, Business Analytics, and Operations and Supply-Chain Management**.  
 
-## **🛠️ Skills and Tools**
+I have experience as a **Tele-Associate Freelancer at IndiaMart**, where I honed my communication and problem-solving skills by assisting sellers in optimizing their profiles and improving the quality of platform outputs. I am passionate about applying analytical skills to solve real-world problems and am always eager to learn and grow in the field of data analytics.
 
-- **Programming Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL  
-- **Data Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Other Tools:** Excel, Jupyter Notebook, Git  
-- **Data Analysis Techniques:** Data Wrangling, Exploratory Data Analysis (EDA), Statistical Modeling  
-- **Currently Learning:** Machine Learning, Advanced SQL, Cloud Computing (AWS/GCP)
+---
 
-## **📊 GitHub Stats**
+## **📊 Projects**
 
-![Ankit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar&layout=compact&theme=radical)
-
-## **📊 Featured Projects**
+Here are some of the projects that showcase my skills and experience:
 
 1. **Sales Analysis Dashboard**  
-   A comprehensive Power BI dashboard analyzing sales performance across different regions and products. [View Repository](#)
+   Created a comprehensive **Power BI** dashboard to analyze sales performance across different regions and products. The dashboard provides insights into key sales metrics, trends, and patterns to help make data-driven decisions.  
+   **[View Repository](#)**
 
 2. **Customer Segmentation with Python**  
-   A project using K-Means clustering to segment customers based on purchasing behavior. [View Repository](#)
+   Developed a project using **K-Means Clustering** to segment customers based on their purchasing behavior. This analysis helps in targeted marketing and improves customer retention strategies.  
+   **[View Repository](#)**
 
 3. **COVID-19 Data Analysis**  
-   Exploratory data analysis and visualization of global COVID-19 trends using Python and Tableau. [View Repository](#)
+   Conducted exploratory data analysis and visualization of global COVID-19 trends using **Python and Tableau**. This project aimed to provide a comprehensive view of the pandemic's impact worldwide.  
+   **[View Repository](#)**
 
 4. **Financial Data Time Series Forecasting**  
-   A time series analysis project forecasting stock prices using ARIMA and LSTM models. [View Repository](#)
+   Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**. The project demonstrates the application of advanced statistical techniques in financial data analysis.  
+   **[View Repository](#)**
+
+---
+
+## **🛠️ Technical Skills**
+
+- **Python**: Data Manipulation (Pandas), Data Visualization (Matplotlib, Seaborn)
+- **Statistics**: Descriptive Statistics, Inferential Statistics, Correlation, Time Series Analysis
+- **SQL**: Basic Commands, Aggregation, Joining Tables, Extraction and Reporting, Advanced Functions
+- **Microsoft Excel**: Advanced Formulas & Functions, Pivot Tables/Charts, Analysis Tools, Advanced Features
+- **Power BI**: Data Transformation & Modeling, DAX, Creating Dashboards, Advanced Analytics
+- **Data Analysis Techniques**: Data Wrangling, Exploratory Data Analysis (EDA), Statistical Modeling
+- **Currently Learning**: Advanced SQL, Advanced Python
+
+---
+
+## **🏅 Certifications**
+
+- **Career Essentials in Data Analysis** by Microsoft and LinkedIn (Sep 2024)  
+  This certification helped me build a strong foundation in data analysis, mastering tools such as **Excel, SQL, and Power BI**. I gained practical experience with real-world projects and earned a recognized certificate, which I proudly showcase in my portfolio.
+
+---
 
 ## **🌱 What I'm Currently Working On**
 
-I'm currently working on expanding my knowledge of machine learning and its applications in data analytics. I'm also exploring cloud-based solutions for big data analytics.
+I'm currently working on expanding my knowledge of **machine learning** and its applications in data analytics. Additionally, I am exploring **cloud-based solutions** for big data analytics to stay ahead in this dynamic field.
 
-## **👨‍💻 Open to Collaborate**
+---
 
-I'm always looking for opportunities to collaborate on interesting data-driven projects. If you have a project idea or need help with data analysis, feel free to reach out!
+## **💡 Fun Facts About Me**
+
+- 🌐 I love exploring new technologies and tools that help in data analysis and visualization.
+- 📈 I enjoy analyzing financial markets and trends.
+- 🎯 My goal is to leverage data to solve complex business problems and contribute to impactful decision-making processes.
+
+---
 
 ## **📫 How to Reach Me**
 
-- **LinkedIn:** [linkedin.com/in/ankit-kumar](#)  
-- **Email:** ankitkumar@example.com
+- **Email**: ankitbaech@example.com  
+- **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
+- **Instagram**: [instagram.com/ankittsign](https://www.instagram.com/ankittsign/)
 
-## **📈 Weekly Development Breakdown**
+Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.
 
-<!--START_SECTION:waka-->
-```text
-Python      10 hrs  ███████████░░░░░░░░░░░░░░░  60%
-SQL         4 hrs   ████████░░░░░░░░░░░░░░░░░  25%
-Markdown    2 hrs   ████░░░░░░░░░░░░░░░░░░░░░  10%
-Tableau     1 hr    ██░░░░░░░░░░░░░░░░░░░░░░░  5%
+---
+
+Thank you for visiting my portfolio! Let's connect and explore the world of data together. 🚀
+
