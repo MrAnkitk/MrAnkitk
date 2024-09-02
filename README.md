@@ -2,6 +2,9 @@
 
 Welcome to my GitHub Portfolio! I'm **Ankit Kumar**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
 
+![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
+
+
 ---
 
 ## **👨‍🎓 About Me**
@@ -74,6 +77,11 @@ I'm currently working on expanding my knowledge of **machine learning** and its 
 - **Instagram**: [instagram.com/ankittsign](https://www.instagram.com/ankittsign/)
 
 Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.
+
+---
+
+![Ankit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=radical)
+
 
 ---
 
