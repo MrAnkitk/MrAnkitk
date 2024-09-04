@@ -1,4 +1,4 @@
-# **ANKIT KUMAR - Data Analyst**
+# **Data Analyst**
 
 Welcome to my GitHub Portfolio! I'm **Ankit Kumar**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
 
