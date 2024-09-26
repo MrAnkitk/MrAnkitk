@@ -38,7 +38,7 @@ Here are some of the projects that showcase my skills and experience:
 
 ## **🛠️ Technical Skills**
 
-- **Python**: Data Manipulation (Pandas), Data Visualization (Matplotlib, Seaborn)
+- **Python**: Data Manipulation (Numpy, Pandas), Data Visualization (Matplotlib)
 - **Statistics**: Descriptive Statistics, Inferential Statistics, Correlation, Time Series Analysis
 - **SQL**: Basic Commands, Aggregation, Joining Tables, Extraction and Reporting, Advanced Functions
 - **Microsoft Excel**: Advanced Formulas & Functions, Pivot Tables/Charts, Analysis Tools, Advanced Features
