@@ -71,7 +71,7 @@ I'm currently working on expanding my knowledge of **machine learning** and its 
 
 ## **📫 How to Reach Me**
 
-- **Email**: ankitbaech@example.com  
+- **Email**: ankitbaech@gmail.com
 - **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
 - **Instagram**: [instagram.com/ankittsign](https://www.instagram.com/ankittsign/)
 
