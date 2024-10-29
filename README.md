@@ -18,9 +18,9 @@ I have experience as a **Tele-Associate Freelancer at IndiaMart**, where I honed
 
 Here are some of the projects that showcase my skills and experience:
 
-1. **Sales Analysis Dashboard**  
-   Created a comprehensive **Power BI** dashboard to analyze sales performance across different regions and products. The dashboard provides insights into key sales metrics, trends, and patterns to help make data-driven decisions.  
-   **[View Repository](#)**
+1. **Pizza Hut Sales Analysis Report**  
+   Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes. The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
+   **[View Repository](https://github.com/MrAnkitk/ppizza-sales-sql)**
 
 2. **Customer Segmentation with Python**  
    Developed a project using **K-Means Clustering** to segment customers based on their purchasing behavior. This analysis helps in targeted marketing and improves customer retention strategies.  
