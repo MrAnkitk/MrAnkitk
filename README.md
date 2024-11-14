@@ -79,10 +79,5 @@ Feel free to connect with me! I'm always open to discussing new projects, ideas,
 
 ---
 
-![Ankit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=radical)
-
-
----
-
 Thank you for visiting my portfolio! Let's connect and explore the world of data together. 🚀
 
