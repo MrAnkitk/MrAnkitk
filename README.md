@@ -26,8 +26,8 @@ Here are some of the projects that showcase my skills and experience:
    Developed a project using **K-Means Clustering** to segment customers based on their purchasing behavior. This analysis helps in targeted marketing and improves customer retention strategies.  
    **[View Repository](#)**
 
-3. **COVID-19 Data Analysis**  
-   Conducted exploratory data analysis and visualization of global COVID-19 trends using **Python and Tableau**. This project aimed to provide a comprehensive view of the pandemic's impact worldwide.  
+3. **Car Sales Analysis**  
+   Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership. Evaluated performance metrics like mileage and engine capacity. Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
    **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
 
 4. **Financial Data Time Series Forecasting**  
