@@ -20,7 +20,7 @@ Here are some of the projects that showcase my skills and experience:
 
 1. **Pizza Hut Sales Analysis Report**  
    Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes. The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
-   **[View Repository](https://github.com/MrAnkitk/ppizza-sales-sql)**
+   **[View Project](https://github.com/MrAnkitk/ppizza-sales-sql)**
 
 2. **Customer Segmentation with Python**  
    Developed a project using **K-Means Clustering** to segment customers based on their purchasing behavior. This analysis helps in targeted marketing and improves customer retention strategies.  
@@ -28,7 +28,7 @@ Here are some of the projects that showcase my skills and experience:
 
 3. **COVID-19 Data Analysis**  
    Conducted exploratory data analysis and visualization of global COVID-19 trends using **Python and Tableau**. This project aimed to provide a comprehensive view of the pandemic's impact worldwide.  
-   **[View Repository](#)**
+   **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
 
 4. **Financial Data Time Series Forecasting**  
    Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**. The project demonstrates the application of advanced statistical techniques in financial data analysis.  
