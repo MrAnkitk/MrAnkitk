@@ -32,7 +32,7 @@ Here are some of the projects that showcase my skills and experience:
    - Interactive Filters: Enabled dynamic filtering by Restaurant Name, Customer Location, Delivery Partner, and Rating.
    - Total Orders Trend (2023–2025): Identified growth patterns and anomalies (e.g., 2024 drop to 0.2K orders).
    - Ratings Distribution: Revealed 80% of ratings were 4–5 stars, with actionable insights for low-rated outlets.  
-   **[View Repository](#)**
+   **[View Project](https://github.com/MrAnkitk/Zomato-Insights-Dashboard)**
 
 4. **Car Sales Analysis**  
    Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership. Evaluated performance metrics like mileage and engine capacity. Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
