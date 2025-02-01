@@ -24,23 +24,25 @@ I'm a data-driven problem solver with a passion for transforming raw numbers int
 
 Here are some of the projects that showcase my skills and experience:
 
-1. **Pizza Hut Sales Analysis Report**  
-   Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes. The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
-   **[View Project](https://github.com/MrAnkitk/ppizza-sales-sql)**
+1. **Pizza Hut Sales Analysis Report**  **[View Project](https://github.com/MrAnkitk/ppizza-sales-sql)**
+   - Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes.
+   - The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
+   
 
-2. **Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis**  
+2. **Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis**   **[View Project](https://github.com/MrAnkitk/Zomato-Insights-Dashboard)**
    - Interactive Filters: Enabled dynamic filtering by Restaurant Name, Customer Location, Delivery Partner, and Rating.
    - Total Orders Trend (2023–2025): Identified growth patterns and anomalies (e.g., 2024 drop to 0.2K orders).
    - Ratings Distribution: Revealed 80% of ratings were 4–5 stars, with actionable insights for low-rated outlets.  
-   **[View Project](https://github.com/MrAnkitk/Zomato-Insights-Dashboard)**
+  
 
-4. **Car Sales Analysis**  
-   Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership. Evaluated performance metrics like mileage and engine capacity. Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
-   **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
+3. **Car Sales Analysis**  **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
+   - Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership.
+   - Evaluated performance metrics like mileage and engine capacity.
+   - Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
 
-5. **Financial Data Time Series Forecasting**  
-   Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**. The project demonstrates the application of advanced statistical techniques in financial data analysis.  
-   **[View Repository](#)**
+4. **Financial Data Time Series Forecasting**  **[View Repository](#)**
+   - Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**.
+   - The project demonstrates the application of advanced statistical techniques in financial data analysis.  
 
 ---
 
