@@ -28,15 +28,17 @@ Here are some of the projects that showcase my skills and experience:
    Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes. The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
    **[View Project](https://github.com/MrAnkitk/ppizza-sales-sql)**
 
-2. **Customer Segmentation with Python**  
-   Developed a project using **K-Means Clustering** to segment customers based on their purchasing behavior. This analysis helps in targeted marketing and improves customer retention strategies.  
+2. **Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis**  
+   - Interactive Filters: Enabled dynamic filtering by Restaurant Name, Customer Location, Delivery Partner, and Rating.
+   - Total Orders Trend (2023–2025): Identified growth patterns and anomalies (e.g., 2024 drop to 0.2K orders).
+   - Ratings Distribution: Revealed 80% of ratings were 4–5 stars, with actionable insights for low-rated outlets.  
    **[View Repository](#)**
 
-3. **Car Sales Analysis**  
+4. **Car Sales Analysis**  
    Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership. Evaluated performance metrics like mileage and engine capacity. Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
    **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
 
-4. **Financial Data Time Series Forecasting**  
+5. **Financial Data Time Series Forecasting**  
    Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**. The project demonstrates the application of advanced statistical techniques in financial data analysis.  
    **[View Repository](#)**
 
