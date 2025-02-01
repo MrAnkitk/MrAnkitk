@@ -1,6 +1,6 @@
 # **Data Analyst**
 
-Welcome to my GitHub Portfolio! I'm **Ankit Kumar**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
+Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
@@ -10,7 +10,13 @@ Welcome to my GitHub Portfolio! I'm **Ankit Kumar**, a Data Analyst based in Bih
 
 I am currently pursuing a **Bachelor of Arts in Economics** from **IGNOU University**, New Delhi, India (2022-2025). My academic journey focuses on **Economical Methods, Business Analytics, and Operations and Supply-Chain Management**.  
 
-I have experience as a **Tele-Associate Freelancer at IndiaMart**, where I honed my communication and problem-solving skills by assisting sellers in optimizing their profiles and improving the quality of platform outputs. I am passionate about applying analytical skills to solve real-world problems and am always eager to learn and grow in the field of data analytics.
+I'm a data-driven problem solver with a passion for transforming raw numbers into strategic business narratives. With a strong foundation in economic theory and hands-on experience in analytics, I bridge the gap between technical analysis and real-world decision-making.  
+
+**What fuels my work:**  
+✅ Extracting actionable insights from complex datasets  
+✅ Designing data visualizations that tell compelling stories  
+✅ Optimizing processes through analytical frameworks  
+✅ Continuous learning in econometrics and machine learning  
 
 ---
 
@@ -36,20 +42,39 @@ Here are some of the projects that showcase my skills and experience:
 
 ---
 
-## **🛠️ Technical Skills**
+## **🛠️ Technical Toolkit**
 
-- **Python**: Data Manipulation (Numpy, Pandas), Data Visualization (Matplotlib)
-- **Statistics**: Descriptive Statistics, Inferential Statistics, Correlation, Time Series Analysis
-- **SQL**: Basic Commands, Aggregation, Joining Tables, Extraction and Reporting, Advanced Functions
-- **Microsoft Excel**: Advanced Formulas & Functions, Pivot Tables/Charts, Analysis Tools, Advanced Features
-- **Power BI**: Data Transformation & Modeling, DAX, Creating Dashboards, Advanced Analytics
-- **Data Analysis Techniques**: Data Wrangling, Exploratory Data Analysis (EDA), Statistical Modeling
-- **Currently Learning**: Advanced SQL, Advanced Python
+**📊 Data Analysis & Visualization**  
+Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Tableau/Power BI  
+
+**📈 Econometric Tools**  
+Statistical Analysis | Regression Modeling | Time Series Analysis  
+
+**💼 Business Acumen**  
+Supply Chain Analytics | Market Trend Analysis | KPI Optimization  
+
+**🔧 Other Skills**  
+Data Cleaning/Wrangling | API Integration | Git Version Control
 
 ---
+## 🎓 **Education**  
+**Bachelor of Arts (Economics)**  
+*IGNOU University, New Delhi* | 2022-2025  
+- **Key Focus Areas:**  
+  - Econometric Modeling  
+  - Business Analytics Frameworks  
+  - Operations & Supply Chain Management  
+  - Statistical Inference
+---
+## 💼 **Professional Experience**  
+**Tele-Associate Freelancer** @ IndiaMart LTD.  
+*(November 2023 - Fabruary 2024)*  
+- Optimized 150+ seller profiles through data-driven recommendations  
+- Developed quality assurance framework improving platform outputs by 40%  
+- Problem-solving skills by assisting sellers in optimizing their profiles and improving the quality of platform outputs.
 
+---
 ## **🏅 Certifications**
-
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn (Sep 2024)  
   This certification helped me build a strong foundation in data analysis, mastering tools such as **Excel, SQL, and Power BI**. I gained practical experience with real-world projects and earned a recognized certificate, which I proudly showcase in my portfolio.
 
