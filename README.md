@@ -24,9 +24,13 @@ I'm a data-driven problem solver with a passion for transforming raw numbers int
 
 Here are some of the projects that showcase my skills and experience:
 
-1. **Pizza Hut Sales Analysis Report**  **[View Project](https://github.com/MrAnkitk/ppizza-sales-sql)**
-   - Created an in-depth SQL report analyzing Pizza Hut's sales data, focusing on total orders, revenue generation, popular pizza types, and sizes.
-   - The report provides valuable insights to support data-driven strategies for maximizing sales and enhancing customer satisfaction.  
+1. **Pizza Hut Sales Analysis Report**  **[View Project](https://github.com/MrAnkitk/MrAnkitk-ola-rides-analysis-powerbi)**
+   - Analyzed 40K+ Ola ride bookings to identify success vs cancellation trends.
+   - Revealed 28% cancellation rate with key driver & customer cancellation reasons.
+   - Evaluated payment methods: UPI & Credit Card dominated revenue share.
+   - Identified top 5 high-value customers contributing ~19.5K INR.
+   - Delivered insights on fleet mix by vehicle types (economy vs premium rides).
+   - Proposed strategies to optimize driver allocation & loyalty programs. 
    
 
 2. **Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis**   **[View Project](https://github.com/MrAnkitk/Zomato-Insights-Dashboard)**
