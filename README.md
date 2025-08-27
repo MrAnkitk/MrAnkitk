@@ -24,7 +24,7 @@ I'm a data-driven problem solver with a passion for transforming raw numbers int
 
 Here are some of the projects that showcase my skills and experience:
 
-1. **Pizza Hut Sales Analysis Report**  **[View Project](https://github.com/MrAnkitk/MrAnkitk-ola-rides-analysis-powerbi)**
+1. **Ola Ride Analysis - Power BI**  **[View Project](https://github.com/MrAnkitk/MrAnkitk-ola-rides-analysis-powerbi)**
    - Analyzed 40K+ Ola ride bookings to identify success vs cancellation trends.
    - Revealed 28% cancellation rate with key driver & customer cancellation reasons.
    - Evaluated payment methods: UPI & Credit Card dominated revenue share.
