@@ -24,7 +24,7 @@ I'm a data-driven problem solver with a passion for transforming raw numbers int
 
 Here are some of the projects that showcase my skills and experience:
 
-1. **Ola Ride Analysis - Power BI**  **[View Project](https://github.com/MrAnkitk/MrAnkitk-ola-rides-analysis-powerbi)**
+1. **Ola Ride Analysis - SQL, Power BI**  **[View Project](https://github.com/MrAnkitk/MrAnkitk-ola-rides-analysis-powerbi)**
    - Analyzed 40K+ Ola ride bookings to identify success vs cancellation trends.
    - Revealed 28% cancellation rate with key driver & customer cancellation reasons.
    - Evaluated payment methods: UPI & Credit Card dominated revenue share.
@@ -39,32 +39,28 @@ Here are some of the projects that showcase my skills and experience:
    - Ratings Distribution: Revealed 80% of ratings were 4–5 stars, with actionable insights for low-rated outlets.  
   
 
-3. **Car Sales Analysis**  **[View Project](https://github.com/MrAnkitk/Car-Sales-Analysis)**
-   - Conducted SQL-based analysis on car sales data to uncover trends in pricing, fuel type, and ownership.
-   - Evaluated performance metrics like mileage and engine capacity.
-   - Delivered insights to optimize inventory, pricing strategies, and support data-driven decision-making.
-
-4. **Financial Data Time Series Forecasting**  **[View Repository](#)**
-   - Implemented a time series analysis to forecast stock prices using **ARIMA and LSTM models**.
-   - The project demonstrates the application of advanced statistical techniques in financial data analysis.  
+3. **Telco Customer Churn Prediction and Retention Analysis - Python**  **[View Project](https://github.com/MrAnkitk/telco-customer-churn-analysis-python)**
+   - Analyzed 7,000+ telecom customer records to identify churn patterns across demographics, services, billing, and contracts.
+   - Built interactive dashboards & visualizations (Power BI / Python) to highlight churn trends and key risk segments.
+   - Discovered that 26% customers churned, with highest risk among month-to-month contracts, electronic check users, and fiber subscribers.
+   - Recommended retention strategies including long-term contracts, value-added service bundles, and secure auto-pay methods.
+   - Applied data-driven insights to support churn reduction initiatives and improve customer loyalty. 
 
 ---
 
 ## **🛠️ Technical Toolkit**
 
 **📊 Data Analysis & Visualization**  
-Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Tableau/Power BI  
-
-**📈 Econometric Tools**  
-Statistical Analysis | Regression Modeling | Time Series Analysis  
+Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Power BI | Generative AI | GitHub | ETL & EDA
 
 **💼 Business Acumen**  
-Supply Chain Analytics | Market Trend Analysis | KPI Optimization  
+Supply Chain Analytics | Market Trend Analysis | KPI Optimization | Time Series Analysis 
 
-**🔧 Other Skills**  
-Data Cleaning/Wrangling | API Integration | Git Version Control
+**🔧 Professional Skills**  
+Communication | Data Analysis | Decision Making | Data Management
 
 ---
+
 ## 🎓 **Education**  
 **Bachelor of Arts (Economics)**  
 *IGNOU University, New Delhi* | 2022-2025  
@@ -72,7 +68,7 @@ Data Cleaning/Wrangling | API Integration | Git Version Control
   - Econometric Modeling  
   - Business Analytics Frameworks  
   - Operations & Supply Chain Management  
-  - Statistical Inference
+  - Problem Solving
 ---
 ## 💼 **Professional Experience**  
 **Tele-Associate Freelancer** @ IndiaMart LTD.  
@@ -83,8 +79,21 @@ Data Cleaning/Wrangling | API Integration | Git Version Control
 
 ---
 ## **🏅 Certifications**
+- **●	Power BI for Data Professionals ** by Simplilearn (Jul 2025)  
+  Data visualization, dashboard creation, DAX calculations, business insights, and report automation using Power BI.
+
+- **●	SQL (Intermediate) Certificate ** by HackerRank (Jun 2025) 
+  Hands-on SQL queries including joins, subqueries, aggregation, filtering, window function, CTE, and performance optimization.
+
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn (Sep 2024)  
-  This certification helped me build a strong foundation in data analysis, mastering tools such as **Excel, SQL, and Power BI**. I gained practical experience with real-world projects and earned a recognized certificate, which I proudly showcase in my portfolio.
+  Core concepts of data cleaning, statistical analysis, data visualization, and storytelling with Excel, Power BI, and business intelligence tools.
+  
+---
+
+## **Intersts**
+- Machine Learning
+- Technology & AI
+- Collaborative projects & teamwork
 
 ---
 
