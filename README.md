@@ -33,10 +33,11 @@ Here are some of the projects that showcase my skills and experience:
    - Proposed strategies to optimize driver allocation & loyalty programs. 
    
 
-2. **Zomato Insights Dashboard – Data-Driven Restaurant Performance Analysis**   **[View Project](https://github.com/MrAnkitk/Zomato-Insights-Dashboard)**
-   - Interactive Filters: Enabled dynamic filtering by Restaurant Name, Customer Location, Delivery Partner, and Rating.
-   - Total Orders Trend (2023–2025): Identified growth patterns and anomalies (e.g., 2024 drop to 0.2K orders).
-   - Ratings Distribution: Revealed 80% of ratings were 4–5 stars, with actionable insights for low-rated outlets.  
+2. **Bike Sales Anlysis & Customer Insights – SQL, Data Visualization**   **[View Project](https://github.com/MrAnkitk/bike-sales-analysis-sql)**
+   - Analyzed 60K+ sales records (2010–2014) from Customers, Sales & Products tables using advanced SQL queries.
+   - Identified $29M revenue drivers with Bikes contributing 96% of sales, highlighting Mountain-200 as top SKU.
+   - Discovered US, Australia & Canada as leading markets, enabling region-focused growth strategies.
+   - Designed data-driven recommendations to boost accessory sales via bundling and seasonal inventory planning.
   
 
 3. **Telco Customer Churn Prediction and Retention Analysis - Python**  **[View Project](https://github.com/MrAnkitk/telco-customer-churn-analysis-python)**
