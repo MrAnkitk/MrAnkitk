@@ -1,6 +1,6 @@
 # **Data Analyst**
 
-Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data science, I specialize in extracting insights from data to drive strategic decisions. 
+Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based in Bihar, India. With a strong foundation in economics and data analysis, I specialize in extracting insights from data to drive strategic decisions. 
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
@@ -8,15 +8,17 @@ Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based i
 
 ## **👨‍🎓 About Me**
 
-I am currently pursuing a **Bachelor of Arts in Economics** from **IGNOU University**, New Delhi, India (2022-2025). My academic journey focuses on **Economical Methods, Business Analytics, and Operations and Supply-Chain Management**.  
+Hi, I’m Ankit! 👋 I’m on a mission to turn messy data into simple, meaningful insights. I enjoy everything from data analysis and EDA to building dashboards that actually tell a story—because data should feel useful, not overwhelming.**.  
 
-I'm a data-driven problem solver with a passion for transforming raw numbers into strategic business narratives. With a strong foundation in economic theory and hands-on experience in analytics, I bridge the gap between technical analysis and real-world decision-making.  
 
-**What fuels my work:**  
-✅ Extracting actionable insights from complex datasets  
-✅ Designing data visualizations that tell compelling stories  
-✅ Optimizing processes through analytical frameworks  
-✅ Continuous learning in econometrics and machine learning  
+**Here’s what I’ve been up to:**  
+➜ Creating Power BI dashboards that make data come alive and drive better decisions.
+➜ Keeping data clean and reliable with ETL steps like standardization and deduplication.
+➜ Using SQL to extract and transform datasets, uncovering trends that matter.
+➜ Applying EDA techniques to spot patterns, test assumptions, and guide analysis.
+➜ Delivering data-driven solutions by aligning analytics with real business problems.
+
+I’m also constantly learning—whether it’s sharpening my Python for ETL and analysis or exploring better ways to visualize insights—because in data, there’s always something new to discover.
 
 ---
 
