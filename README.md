@@ -12,11 +12,11 @@ Hi, I’m Ankit! 👋 I’m on a mission to turn messy data into simple, meaning
 
 
 **Here’s what I’ve been up to:**  
-- ➜ Creating Power BI dashboards that make data come alive and drive better decisions.
-- ➜ Keeping data clean and reliable with ETL steps like standardization and deduplication.
-- ➜ Using SQL to extract and transform datasets, uncovering trends that matter.
-- ➜ Applying EDA techniques to spot patterns, test assumptions, and guide analysis.
-- ➜ Delivering data-driven solutions by aligning analytics with real business problems.
+- Creating Power BI dashboards that make data come alive and drive better decisions.
+- Keeping data clean and reliable with ETL steps like standardization and deduplication.
+- Using SQL to extract and transform datasets, uncovering trends that matter.
+- Applying EDA techniques to spot patterns, test assumptions, and guide analysis.
+- Delivering data-driven solutions by aligning analytics with real business problems.
 
 I’m also constantly learning—whether it’s sharpening my Python for ETL and analysis or exploring better ways to visualize insights—because in data, there’s always something new to discover.
 
