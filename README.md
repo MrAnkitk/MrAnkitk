@@ -8,8 +8,7 @@ Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based i
 
 ## **👨‍🎓 About Me**
 
-Hi, I’m Ankit! 👋 I’m on a mission to turn messy data into simple, meaningful insights. I enjoy everything from data analysis and EDA to building dashboards that actually tell a story—because data should feel useful, not overwhelming.**.  
-
+I turn raw, messy data into **clear insights and decision-ready dashboards**.
 
 **Here’s what I’ve been up to:**  
 - Creating Power BI dashboards that make data come alive and drive better decisions.
