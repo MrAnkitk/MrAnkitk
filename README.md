@@ -10,34 +10,38 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue"/>
-    </td>
-    <td align="center" width="120">
+     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/SQL-Querying-orange"/>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen"/>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue"/>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/GitHub-Version%20Control-black"/>
+      <img src="https://img.shields.io/badge/MySQL-orange"/>
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow"/>
+      <img src="https://img.shields.io/badge/Power BI%20-yellow"/>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Excel-Analytics-green"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/><br/>
+  <img src="https://img.shields.io/badge/Ms Excel-%20green"/>
+</td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/Python%20-blue"/>
+       <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/Pandas%20-brightgreen"/>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/NumPy%20-lightblue"/>
+    </td>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/Matplotlib-blueviolet"/>
+    </td>
+    <td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="40"/><br/>
+  <img src="https://img.shields.io/badge/Seaborn%20-blue"/>
+</td>
   </tr>
 </table>
 
