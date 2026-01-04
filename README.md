@@ -9,7 +9,7 @@
 
 ## **👨‍🎓 About Me**
 
-I turn raw, messy data into **clear insights and decision-ready dashboards**.
+**I turn raw, messy data into **clear insights and decision-ready dashboards**.
 
 **What I do best:**  
 - Transform raw data into **actionable business insights**
@@ -17,7 +17,7 @@ I turn raw, messy data into **clear insights and decision-ready dashboards**.
 - Clean, analyze, and visualize datasets for better decision-making
 - Blend **data + design** to make reports practical, not just pretty
 
-I enjoy learning in public, sharing insights, and growing with the data community.
+**I enjoy learning in public, sharing insights, and growing with the data community.**
 
 ---
 
@@ -110,9 +110,9 @@ Here are some of the projects that showcase my skills and experience:
 - **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
 - **Instagram**: [instagram.com/ankittsign](https://www.instagram.com/ankittsign/)
 
-Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.
+**Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.**
 
 ---
 
-Thank you for visiting my portfolio! Let's connect and explore the world of data together. 🚀
+**Thank you for visiting my portfolio! Let's connect and explore the world of data together.** 🚀
 
