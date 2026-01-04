@@ -8,92 +8,11 @@
 ---
 ## 🛠 Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
----
-
-## 🧠 Skills
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-Queries-orange)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Excel](https://img.shields.io/badge/Excel-Analytics-green)
-![Statistics](https://img.shields.io/badge/Statistics-Analysis-lightgrey)
-
----
-
-## 🛠 Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-**Also working with:** Power BI · Excel · Statistics · EDA · ETL · Time Series · KPI Analysis
----
-## 🛠 Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/><br/>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/><br/>
-  <img src="https://img.shields.io/badge/SQL-Querying-orange" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/><br/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/><br/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/><br/>
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black" />
-</p>
-
-**Also working with:**  
-Power BI · Excel · Statistics · EDA · ETL · Time Series · KPI Analysis
----
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/> 
-</p>
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-Querying-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
-
----
-## 🛠 Skills
-
 <table>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue"/>
+      <img src="https://img.shields.io/badge/Python-%20blue"/>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
