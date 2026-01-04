@@ -64,7 +64,7 @@ Here are some of the projects that showcase my skills and experience:
 
 ## 🎓 **Education**  
 **Bachelor of Arts (Economics)**  
-*IGNOU University, New Delhi* | 2022-2025  
+*Indira Gandhi National Open University, New Delhi* | Jan 2023 - Jan 2025
 - **Key Focus Areas:**  
   - Econometric Modeling  
   - Business Analytics Frameworks  
