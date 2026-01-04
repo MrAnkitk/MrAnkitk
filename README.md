@@ -6,7 +6,7 @@
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
 ---
-## 🛠 Skills
+## 🛠  Technical Toolkit
 
 <table>
   <tr>
@@ -19,28 +19,20 @@
       <img src="https://img.shields.io/badge/Power BI%20-yellow"/>
     </td>
     <td align="center" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100" height="100"/><br/>
+  <img src="https://img.shields.io/badge/Tableau-blue"/>
+</td>
+    <td align="center" width="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/><br/>
   <img src="https://img.shields.io/badge/Ms Excel-%20green"/>
 </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
       <img src="https://img.shields.io/badge/Python%20-blue"/>
-       <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Pandas%20-brightgreen"/>
-    </td>
+      </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/NumPy%20-lightblue"/>
-    </td>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Matplotlib-blueviolet"/>
-    </td>
-    <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="40"/><br/>
-  <img src="https://img.shields.io/badge/Seaborn%20-blue"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/><br/>
+  <img src="https://img.shields.io/badge/Generative AI%20-ff44b6"/>
 </td>
   </tr>
 </table>
@@ -62,10 +54,14 @@
 
 ---
 
-## **🛠️ Technical Toolkit**
+## **🛠️ Skills **
 
 **📊 Data Analysis & Visualization**  
-Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Power BI | Generative AI | GitHub | ETL & EDA
+- Python (Pandas, NumPy, Matplotlib, Seaborn) Jupyter notebook
+- SQL | MySQL
+- MS Excel | Google Sheets
+- MS Power BI, Power Query, DAX
+- Generative AI, GitHub, ETL & EDA
 
 **💼 Business Acumen**  
 Supply Chain Analytics | Market Trend Analysis | KPI Optimization | Time Series Analysis 
