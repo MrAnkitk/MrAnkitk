@@ -1,7 +1,7 @@
 # **Data Analyst**
 
-*Welcome to my Portfolio!*
-*I’m Ankit Kumar Shrivastava*, a Data Analyst based in Bihar with practical experience as an *MIS Analyst*, working on business reports, inventory analysis, and operational data. Backed by a strong foundation in *economics and data analysis*, I specialize in transforming raw data into actionable insights that drive strategic decisions.
+**Welcome to my Portfolio!**
+**I’m Ankit Kumar Shrivastava**, a Data Analyst based in Bihar with practical experience as an **MIS Analyst**, working on business reports, inventory analysis, and operational data. Backed by a strong foundation in **economics and data analysis**, I specialize in transforming raw data into actionable insights that drive strategic decisions.
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
