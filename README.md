@@ -16,19 +16,19 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/SQL-Querying-orange"/>
+      <img src="https://img.shields.io/badge/SQL/MySQL-orange"/>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen"/>
+      <img src="https://img.shields.io/badge/Pandas-%20-brightgreen"/>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue"/>
+      <img src="https://img.shields.io/badge/NumPy-%20-lightblue"/>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/GitHub-Version%20Control-black"/>
+      <img src="https://img.shields.io/badge/GitHub-%20-black"/>
     </td>
   </tr>
 </table>
