@@ -87,6 +87,35 @@ Power BI · Excel · Statistics · EDA · ETL · Time Series · KPI Analysis
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 
 ---
+## 🛠 Skills
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/SQL-Querying-orange"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+      <img src="https://img.shields.io/badge/GitHub-Version%20Control-black"/>
+    </td>
+  </tr>
+</table>
+
+**Also working with:** Power BI · Excel · Statistics · EDA · ETL · Time Series · KPI Analysis
+---
 
 ## **👨‍🎓 About Me**
 
