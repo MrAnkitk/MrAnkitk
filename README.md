@@ -96,24 +96,10 @@ Here are some of the projects that showcase my skills and experience:
   
 ---
 
-## **Intersts**
-- Machine Learning
-- Technology & AI
-- Collaborative projects & teamwork
-
----
-
-## **🌱 What I'm Currently Working On**
-
-I'm currently working on expanding my knowledge of **machine learning** and its applications in data analytics. Additionally, I am exploring **cloud-based solutions** for big data analytics to stay ahead in this dynamic field.
-
----
-
-## **💡 Fun Facts About Me**
-
-- 🌐 I love exploring new technologies and tools that help in data analysis and visualization.
-- 📈 I enjoy analyzing financial markets and trends.
-- 🎯 My goal is to leverage data to solve complex business problems and contribute to impactful decision-making processes.
+## **Current Focus**
+- Advanced SQL for analytics  
+- New Technologies & AI
+- Preparing for Data Analyst / Business Analyst roles
 
 ---
 
