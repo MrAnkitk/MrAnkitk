@@ -70,10 +70,16 @@ Here are some of the projects that showcase my skills and experience:
   - Business Analytics Frameworks  
   - Operations & Supply Chain Management  
   - Problem Solving
+
 ---
 ## 💼 **Professional Experience**  
-**Tele-Associate Freelancer** @ IndiaMart LTD.  
-*(November 2023 - Fabruary 2024)*  
+**MIS Analyst** — Shiv Shakti Textiles (Mar 2024 – May 2025)
+- Created and maintained **MIS reports** for daily and monthly operations  
+- Analyzed inventory and sales data to support business decisions  
+- Improved reporting accuracy and reduced manual effort using Excel automation  
+- Delivered insights to management in a clear, business-friendly format  
+
+**Tele-Associate Freelancer** — IndiaMart LTD. (Nov 2023 - Fab 2024)
 - Optimized 150+ seller profiles through data-driven recommendations  
 - Developed quality assurance framework improving platform outputs by 40%  
 - Problem-solving skills by assisting sellers in optimizing their profiles and improving the quality of platform outputs.
