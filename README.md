@@ -17,6 +17,7 @@ I turn raw, messy data into **clear insights and decision-ready dashboards**.
 - Blend **data + design** to make reports practical, not just pretty
 
 I enjoy learning in public, sharing insights, and growing with the data community.
+
 ---
 
 ## **🛠️ Technical Toolkit**
