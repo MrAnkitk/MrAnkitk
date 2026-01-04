@@ -80,10 +80,10 @@ Here are some of the projects that showcase my skills and experience:
 
 ---
 ## **🏅 Certifications**
-- **●	Power BI for Data Professionals ** by Simplilearn (Jul 2025)  
+- **Power BI for Data Professionals ** by Simplilearn (Jul 2025)  
   Data visualization, dashboard creation, DAX calculations, business insights, and report automation using Power BI.
 
-- **●	SQL (Intermediate) Certificate ** by HackerRank (Jun 2025) 
+- **SQL (Intermediate) Certificate ** by HackerRank (Jun 2025) 
   Hands-on SQL queries including joins, subqueries, aggregation, filtering, window function, CTE, and performance optimization.
 
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn (Sep 2024)  
