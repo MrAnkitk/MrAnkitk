@@ -10,15 +10,13 @@ Welcome to my Portfolio! I'm **Ankit Kumar Shrivastava**, a Data Analyst based i
 
 I turn raw, messy data into **clear insights and decision-ready dashboards**.
 
-**Here’s what I’ve been up to:**  
-- Creating Power BI dashboards that make data come alive and drive better decisions.
-- Keeping data clean and reliable with ETL steps like standardization and deduplication.
-- Using SQL to extract and transform datasets, uncovering trends that matter.
-- Applying EDA techniques to spot patterns, test assumptions, and guide analysis.
-- Delivering data-driven solutions by aligning analytics with real business problems.
+**What I do best:**  
+- Transform raw data into **actionable business insights**
+- Build **interactive dashboards** that are intuitive and impactful
+- Clean, analyze, and visualize datasets for better decision-making
+- Blend **data + design** to make reports practical, not just pretty
 
-I’m also constantly learning—whether it’s sharpening my Python for ETL and analysis or exploring better ways to visualize insights—because in data, there’s always something new to discover.
-
+I enjoy learning in public, sharing insights, and growing with the data community.
 ---
 
 ## **📊 Projects**
