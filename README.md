@@ -12,46 +12,36 @@
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/SQL-Querying-4479A1?logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-Querying-orange"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-brightgreen"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-Version%20Control-black"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow"/>
     </td>
-
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40"/><br/>
-      <img src="https://img.shields.io/badge/Excel-Analytics-217346?logo=microsoft-excel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-Analytics-green"/>
     </td>
   </tr>
 </table>
 
-**Also working with:**  
-Statistics · EDA · ETL · Time Series Analysis · KPI Optimization · Supply Chain Analytics
-
-
-**Also working with:** Power BI · Excel · Statistics · EDA · ETL · Time Series · KPI Analysis
+**Also working with:** Statistics · EDA · ETL · Time Series Analysis · KPI Optimization · Supply Chain Analytics
 ---
 
 ## **👨‍🎓 About Me**
