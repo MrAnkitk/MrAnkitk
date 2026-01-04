@@ -9,7 +9,7 @@
 
 ## **👨‍🎓 About Me**
 
-**I turn raw, messy data into **clear insights and decision-ready dashboards**.
+**I turn raw, messy data into clear insights and decision-ready dashboards**.
 
 **What I do best:**  
 - Transform raw data into **actionable business insights**
