@@ -1,7 +1,7 @@
 # **Data Analyst**
 
-**Welcome to my Portfolio!**
-**I’m Ankit Kumar Shrivastava**, a Data Analyst based in Bihar with practical experience as an **MIS Analyst**, working on business reports, inventory analysis, and operational data. Backed by a strong foundation in **economics and data analysis**, I specialize in transforming raw data into actionable insights that drive strategic decisions.
+I’m **Ankit Kumar Shrivastava**, a **Data Analyst** with hands-on experience as an **MIS Analyst**, specializing in business reporting, inventory analysis, and dashboard-driven decision making.  
+With a background in **Economics**, I focus on turning operational data into insights that support real business actions.
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
@@ -37,37 +37,30 @@
   </tr>
 </table>
 
-**Also working with:** Statistics · EDA · ETL · Time Series Analysis · KPI Optimization · Supply Chain Analytics
+### 🧠 Analytics & Statistical Foundations
+Statistics · Exploratory Data Analysis (EDA) · ETL Pipelines · Time Series Analysis · Data Modeling
+
+### 📊 Business & Decision Analytics
+KPI Design & Optimization · Supply Chain Analytics · Market Trend Analysis · Decision Support
+
+### 🤝 Professional Strengths
+Stakeholder Reporting · Communication · Data Management
+
 ---
 
 ## **👨‍🎓 About Me**
 
-**I turn raw, messy data into clear insights and decision-ready dashboards**.
+I approach data problems with a **business-first and insight-driven mindset**.  
+For me, analysis is not just about charts or queries — it’s about **answering the right questions and enabling better decisions**.
 
-**What I do best:**  
-- Transform raw data into **actionable business insights**
-- Build **interactive dashboards** that are intuitive and impactful
-- Clean, analyze, and visualize datasets for better decision-making
-- Blend **data + design** to make reports practical, not just pretty
+**How I work:**
+- Start with understanding the **business context** before touching the data  
+- Clean and structure data to make it **analysis-ready and reliable**  
+- Apply **statistical reasoning and exploratory analysis** to uncover meaningful patterns  
+- Design **clear, intuitive dashboards** that communicate insights without overcomplication  
+- Translate findings into **practical recommendations**, not just observations  
 
-**I enjoy learning in public, sharing insights, and growing with the data community.**
-
----
-
-## **🛠️ Skills **
-
-**📊 Data Analysis & Visualization**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn) Jupyter notebook
-- SQL | MySQL
-- MS Excel | Google Sheets
-- MS Power BI, Power Query, DAX
-- Generative AI, GitHub, ETL & EDA
-
-**💼 Business Acumen**  
-Supply Chain Analytics | Market Trend Analysis | KPI Optimization | Time Series Analysis 
-
-**🔧 Professional Skills**  
-Communication | Data Analysis | Decision Making | Data Management
+I strongly believe that **good analytics sits at the intersection of data, statistics, and design**, and my goal is to build solutions that are not only accurate, but also **useful and decision-ready**.
 
 ---
 
@@ -135,9 +128,9 @@ Here are some of the projects that showcase my skills and experience:
 ---
 
 ## **Current Focus**
-- Advanced SQL for analytics  
-- New Technologies & AI
-- Preparing for Data Analyst / Business Analyst roles
+- Advanced SQL & performance optimization  
+- Building production-ready dashboards  
+- Applying GenAI for analytics automation
 
 ---
 
