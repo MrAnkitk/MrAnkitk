@@ -19,6 +19,19 @@ I turn raw, messy data into **clear insights and decision-ready dashboards**.
 I enjoy learning in public, sharing insights, and growing with the data community.
 ---
 
+## **🛠️ Technical Toolkit**
+
+**📊 Data Analysis & Visualization**  
+Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Power BI | Generative AI | GitHub | ETL & EDA
+
+**💼 Business Acumen**  
+Supply Chain Analytics | Market Trend Analysis | KPI Optimization | Time Series Analysis 
+
+**🔧 Professional Skills**  
+Communication | Data Analysis | Decision Making | Data Management
+
+---
+
 ## **📊 Projects**
 
 Here are some of the projects that showcase my skills and experience:
@@ -45,19 +58,6 @@ Here are some of the projects that showcase my skills and experience:
    - Discovered that 26% customers churned, with highest risk among month-to-month contracts, electronic check users, and fiber subscribers.
    - Recommended retention strategies including long-term contracts, value-added service bundles, and secure auto-pay methods.
    - Applied data-driven insights to support churn reduction initiatives and improve customer loyalty. 
-
----
-
-## **🛠️ Technical Toolkit**
-
-**📊 Data Analysis & Visualization**  
-Python (Pandas, NumPy, Matplotlib) | SQL | Excel/Google Sheets | Power BI | Generative AI | GitHub | ETL & EDA
-
-**💼 Business Acumen**  
-Supply Chain Analytics | Market Trend Analysis | KPI Optimization | Time Series Analysis 
-
-**🔧 Professional Skills**  
-Communication | Data Analysis | Decision Making | Data Management
 
 ---
 
