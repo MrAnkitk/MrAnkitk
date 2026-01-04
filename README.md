@@ -80,7 +80,9 @@ Here are some of the projects that showcase my skills and experience:
 
 ---
 ## **🏅 Certifications**
-- **Power BI for Data Professionals** by Simplilearn (Jul 2025)  
+- **Tata – GenAI Powered Data Analytics Job Simulation**
+ 
+- **Power BI for Data Professionals** by Simplilearn (Jul 2025)
   Data visualization, dashboard creation, DAX calculations, business insights, and report automation using Power BI.
 
 - **SQL (Intermediate) Certificate** by HackerRank (Jun 2025) 
