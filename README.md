@@ -138,7 +138,7 @@ Here are some of the projects that showcase my skills and experience:
 
 - **Email**: ankitbaech@gmail.com
 - **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
-- **Instagram**: [instagram.com/ankittsign](https://www.instagram.com/ankittsign/)
+- **Instagram**: [instagram.com/ankitksign](https://www.instagram.com/ankitksign/)
 
 **Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.**
 
