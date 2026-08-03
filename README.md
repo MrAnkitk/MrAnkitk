@@ -1,4 +1,4 @@
-# 🚀 About Me
+## 🚀 About Me
 I am ✨ Ankit Shrivastava ✨, a recent Economics graduate (Jan 2026) from IGNOU with a strong passion for transforming raw data into strategic business insights. With practical, ground-level experience as an MIS Executive in wholesale operations, I have hands-on expertise in managing operational workflows, automating daily reporting, handling invoices, and ensuring seamless data accuracy. 
 
 My background in Economics helps me look beyond raw numbers to understand core business drivers and financial metrics. Currently, I’m building end-to-end data analytics projects, sharpening my statistical modeling, and creating dashboards that solve operational problems. Let’s connect to explore data-driven business strategies together!
@@ -7,7 +7,7 @@ My background in Economics helps me look beyond raw numbers to understand core b
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
 
 * **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Business Intelligence & Visualization:** Power BI (DAX, Data Modeling), Advanced Excel (Pivot Tables, Power Query, VLOOKUP/XLOOKUP)
