@@ -1,7 +1,8 @@
-# **Data Analyst**
+# **Hi, there! It's Ankit! 👋**
 
-I’m **Ankit Kumar Shrivastava**, a **Data Analyst** with hands-on experience as an **MIS Analyst**, specializing in business reporting, inventory analysis, and dashboard-driven decision making.  
-With a background in **Economics**, I focus on turning operational data into insights that support real business actions.
+I am ✨ Ankit Shrivastava ✨, a recent Economics graduate (Jan 2026) from IGNOU with a strong passion for transforming raw data into strategic business insights. With practical, ground-level experience as an MIS Executive in wholesale operations, I have hands-on expertise in managing operational workflows, automating daily reporting, handling invoices, and ensuring seamless data accuracy. 
+
+My foundation in Economics allows me to look beyond just numbers—helping me understand the core business drivers, market mechanics, and financial metrics behind the data. Currently, I am actively building end-to-end data analytics projects, refining my statistical modeling, and expanding my expertise across modern analytical frameworks. I love solving complex operational problems and creating visual stories that empower decision-makers. Let's connect and explore the potential of data-driven business strategy together!
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
