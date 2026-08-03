@@ -1,5 +1,3 @@
-# **Hi, there! It's Ankit! 👋**
-
 # 🚀 About Me
 I am ✨ Ankit Shrivastava ✨, a recent Economics graduate (Jan 2026) from IGNOU with a strong passion for transforming raw data into strategic business insights. With practical, ground-level experience as an MIS Executive in wholesale operations, I have hands-on expertise in managing operational workflows, automating daily reporting, handling invoices, and ensuring seamless data accuracy. 
 
