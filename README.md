@@ -37,7 +37,4 @@ My background in Economics helps me look beyond raw numbers to understand core b
 - **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
 - **Instagram**: [instagram.com/ankitksign](https://www.instagram.com/ankitksign/)
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)
-
 **Feel free to connect with me! I'm always open to discussing new projects, ideas, or opportunities to collaborate.**
