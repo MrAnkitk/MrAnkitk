@@ -12,8 +12,8 @@ My background in Economics helps me look beyond raw numbers to understand core b
 
 * **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Business Intelligence & Visualization:** Power BI (DAX, Data Modeling), Advanced Excel (Pivot Tables, Power Query, VLOOKUP/XLOOKUP)
-* **Core Competencies:** Data Cleaning & Transformation, Exploratory Data Analysis (EDA), Descriptive & Inferential Statistics, Operational Reporting (MIS)
-* **Tools & Workflow:** Git, GitHub, Management Information Systems (MIS)
+* **Core Competencies:** Data Cleaning & Transformation, Exploratory Data Analysis (EDA), Descriptive & Inferential Statistics, Operational Reporting (MIS), ETL
+* **Tools & Workflow:** GitHub, Microsoft Fabric
 
 ---
 
