@@ -2,7 +2,7 @@
 
 I am ✨ Ankit Shrivastava ✨, a recent Economics graduate (Jan 2026) from IGNOU with a strong passion for transforming raw data into strategic business insights. With practical, ground-level experience as an MIS Executive in wholesale operations, I have hands-on expertise in managing operational workflows, automating daily reporting, handling invoices, and ensuring seamless data accuracy. 
 
-My foundation in Economics allows me to look beyond just numbers—helping me understand the core business drivers, market mechanics, and financial metrics behind the data. Currently, I am actively building end-to-end data analytics projects, refining my statistical modeling, and expanding my expertise across modern analytical frameworks. I love solving complex operational problems and creating visual stories that empower decision-makers. Let's connect and explore the potential of data-driven business strategy together!
+My background in Economics helps me look beyond raw numbers to understand core business drivers and financial metrics. Currently, I’m building end-to-end data analytics projects, sharpening my statistical modeling, and creating dashboards that solve operational problems. Let’s connect to explore data-driven business strategies together!
 
 ![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=ankitkumar.ankitkumar)
 
