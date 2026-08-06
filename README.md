@@ -32,7 +32,6 @@ My background in Economics helps me look beyond raw numbers to understand core b
 - **SQL (Intermediate) Certificate** by HackerRank (Jun 2025) 
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn (Sep 2024)
 
-## **📫 How to Reach Me**
 - **Email**: ankitbaech@gmail.com
 - **LinkedIn**: [linkedin.com/in/ankitsign](https://www.linkedin.com/in/ankitsign/)  
 - **Instagram**: [instagram.com/ankitksign](https://www.instagram.com/ankitksign/)
